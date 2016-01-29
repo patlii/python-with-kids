@@ -1,1 +1,1 @@
-# python-with-kids
+# source for python-with-kids
